@@ -1,2 +1,3 @@
 # Car-Detection-Using-YOLO
-Trong bài này, em sử dụng 2 mô hình YOLOv4 và YOLOv8
+YOLOv4 using: https://github.com/AlexeyAB/darknet
+YOLOv8 ultralytics
